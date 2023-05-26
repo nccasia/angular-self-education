@@ -45,6 +45,7 @@
 
 1. How to handle the navigation?
 2. What happen if I have nested page?
+3. How to block a route?
 
 ## Module
 
