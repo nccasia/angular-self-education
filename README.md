@@ -32,3 +32,4 @@
 
 ## Optimize *ngFor by using trackBy
 
+https://blog.angular-university.io/angular-custom-validators/
